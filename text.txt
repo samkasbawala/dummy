@@ -1,4 +1,5 @@
 This is the first line in the file.
 This is the second line in the file.
 This is another line in the file.
+This is in the feature branch
 This is another change in master.
